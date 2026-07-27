@@ -132,16 +132,16 @@
 * ¿Cómo mejorar en toma decisiones?
 [[file:media/decisioens.png]]
 
-* Sistema regional de talentos en Arquitectura empresarial​
+* Sistema regional de talentos en Arquitectura Empresarial​
 [[file:media/loQueNoEs.png]]
 
-* +Sistema regional de talentos en Arquitectura empresarial​+
+* @@html:<s>Sistema regional de talentos en Arquitectura Empresarial​</s>@@
 [[file:media/loQueNoEs-noConectado.png]]
 
 * 
 [[file:media/modeloOperativo.png]]
 
-* Capa regional de coordinación de la práctica de arquitectura empresarial ​
+iex Capa regional de coordinación de la práctica de arquitectura empresarial ​
 [[file:media/capaCoordinación.png]] 
 
 * 
@@ -152,3 +152,7 @@
 
 * Actividades de cooperación de America Latina
 [[file:media/roadmap.png]]
+
+* Preguntas
+
+[[file:media/qr.png]]
